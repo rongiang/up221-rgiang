@@ -1,1 +1,1 @@
-# up221-rgiang
+I'm a second year MURP. My focus is on Transportation concentration. My focus is on build time for public transportation and the impacts to delays in build time. My thesis looks at the amount of time lost by public transportation riders due to delays in completion of public transportation. 
